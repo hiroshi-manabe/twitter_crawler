@@ -4,7 +4,7 @@
 
 1. Install Python3, Selenium, chromedriver-binary
 1. Edit the source code: "*******" => the Twitter user ID you want to crawl
-2. I'm going to include a fenced code block as part of this bullet:
+1. 
 
     ```
     $ python3 crawl.py > log.txt 
