@@ -4,10 +4,10 @@
 
 1. Install Python3, Selenium, chromedriver-binary
 1. Edit the source code: "*******" => the Twitter user ID you want to crawl
-1.
+2. I'm going to include a fenced code block as part of this bullet:
 
     ```
-    $ python3 crawl.py > log.txt
+    $ python3 crawl.py > log.txt 
     ```
 
 1. The log text is the raw HTML displayed in Twitter; you may want to extract the text like:
