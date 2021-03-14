@@ -1,5 +1,9 @@
 # Twitter crawler
 
+## What is this?
+
+You can crawl tweets from a particular Twitter account using this script.
+
 ## How to use
 
 1. Install Python3, Selenium, chromedriver-binary
